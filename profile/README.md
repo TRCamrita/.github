@@ -1,6 +1,8 @@
 # The Robotics Club
 
 Welcome to The Robotics Club, a student-run organization dedicated to advancing open-source projects in robotics and technology. Our mission is to foster collaboration, innovation, and learning through hands-on projects and shared knowledge.
+
+
 ![US bro US](compress.jpeg)
 
 ## What We Do
